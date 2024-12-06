@@ -1,10 +1,10 @@
 id: lessonpart1
-title: Welcome to 101-python-coding-activity
-duration: 5
+title: Welcome to 101-python-coding-activity 12e32
+duration: 10
 content: |-
   **Welcome to the course authoring!**
-  You can use Markdown to format your content.
+  You can use Markdown to format your content.ssdfds
 showContent: true
-showEditor: false
-showTerminal: false
+showEditor: true
+showTerminal: true
 showExplorer: true
