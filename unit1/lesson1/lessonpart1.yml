@@ -1,9 +1,14 @@
+# yaml-language-server: $schema=https://vscodeedu.com/schema/course-v2.schema.json
 id: lessonpart1
 title: Welcome to 101-python-coding-activity 12e32
 duration: 10
-content: |-
+content: |
   **Welcome to the course authoring!**
-  You can use Markdown to format your content.ssdfds
+  You can use Markdown to format your content.
+
+
+
+  This is a github repo backed.
 showContent: true
 showEditor: true
 showTerminal: true
